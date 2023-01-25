@@ -1,0 +1,2 @@
+# tsStudy
+learn about typeScript
